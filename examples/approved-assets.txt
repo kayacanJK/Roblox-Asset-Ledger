@@ -1,0 +1,3 @@
+# Example policy: deliberately approved by project maintainer
+123456789
+987654321
